@@ -1,0 +1,8 @@
+[book]
+title = "Electronic Devices Lecture Notes"
+authors = ["Cateds"]
+language = "zh_cn"
+src = "Lectures"
+
+[preprocessor.katex]
+after = ["links"]
