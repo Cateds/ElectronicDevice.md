@@ -4,6 +4,10 @@
 >
 > 目前的进度是 lec2.3，后续章节会陆续补充。
 
-喜欢的话记得点个 Star 支持一下。
+对应的 Github 仓库地址是：
 
-如果能开一个 Pull Request 来补充内容就更好了！
+<https://github.com/Cateds/ElectronicDevice.md>
+
+有帮助的话记得点个 Star 支持一下。
+
+如果能开一个 Pull Request 来补充内容就更好了。
