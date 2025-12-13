@@ -8,5 +8,6 @@
   - [PN 结 Part.1](lec2.1.md)
   - [PN 结 Part.2](lec2.2.md)
   - [PN 结 Part.3](lec2.3.md)
+  - [PN 结 Part.4](lec2.4.md)
 - [**Block.3** 半导体器件](blocks/blk3.md)
 - [**Block.4** 高级半导体器件](blocks/blk4.md)

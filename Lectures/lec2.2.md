@@ -100,7 +100,7 @@ $$
 $$
 \begin{aligned}
   & J_{n,\mathrm{diffusion}} = -qD_n \frac{dn}{dx} \quad \text{(电子的扩散电流密度)}\\
-  & J_{p,\mathrm{diffusion}} = qD_p \frac{dp}{dx} \quad \text{(空穴的扩散电流密度)s}
+  & J_{p,\mathrm{diffusion}} = qD_p \frac{dp}{dx} \quad \text{(空穴的扩散电流密度)}
 \end{aligned}
 $$
 
