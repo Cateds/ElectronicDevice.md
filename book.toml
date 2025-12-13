@@ -8,4 +8,4 @@ src = "Lectures"
 after = ["links"]
 
 [output.html]
-git-repository-url = "https://github.com/Cateds/AI-MachineLearning.md"
+git-repository-url = "https://github.com/Cateds/ElectronicDevice.md"
