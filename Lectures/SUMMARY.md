@@ -16,4 +16,4 @@
 - [**Block.4** 高级半导体器件](Blocks/blk4.md)
   - [光电二极管 (Photodiode)](lec4.1.md)
   - [发光二极管 (LED)](lec4.2.md)
-  - [太阳能电池 (Solar Cell)]()
+  - [太阳能电池 (Solar Cell)](lec4.3.md)
