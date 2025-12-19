@@ -1,9 +1,5 @@
 # Introduction to Electronic Devices
 
-> [Updated at 2025-12-13]
->
-> 目前的进度是 lec2.3，后续章节会陆续补充。
-
 对应的 Github 仓库地址是：
 
 <https://github.com/Cateds/ElectronicDevice.md>
