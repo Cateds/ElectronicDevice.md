@@ -55,11 +55,13 @@ LED 中的能带图如下：
 
 当是加了一个正向偏置 $V$ 时，PN 结附近以及 P 区的电子扩散长度内的电子直接复合，导致光子发射。左右两侧的费米能级分离，$E_{F_n} - E_{F_p} = eV$。
 
-这种发光过程叫做电致发光 (Electroluminescence, EL)，指的是电流通过材料时，由于空穴和电子的辐射复合而产生光的现象。对于重掺杂 N 型的 PN 结重，由于少数载流子输入导致 EHP 复合而发光的现象被称为注入型电致发光 (Injection Electroluminescence)。
+这种发光过程叫做电致发光 (Electroluminescence, EL)，指的是电流通过材料时，由于空穴和电子的辐射复合 (radiative recombination) 而产生光的现象。对于重掺杂 N 型的 PN 结中，由于少数载流子输入导致 EHP 复合而发光的现象被称为注入型电致发光 (Injection Electroluminescence)。
 
 ---
 
-由于电子和空穴之间复合过程的统计性质， LED 发射的光子方向是随机的，他们源于电子和空穴之间的自发辐射复合 (Spontaneous Radiative Recombination)。因此，LED 发射的光是非相干光 (Incoherent Light)，与激光器发射的相干光不同。
+由于电子和空穴之间复合过程的统计性质， LED 发射的光子方向是随机的，他们源于电子和空穴之间的自发辐射复合 (Spontaneous Radiative Recombination)，这种自发复合过程导致了自发光子发射 (Spontaneous Photon Emission)。
+
+LED 发射的光是非相干光 (Incoherent Light)，与激光器发射的相干光不同。
 
 ![1766130205661](lec4.2.assets/1766130205661.png)
 
