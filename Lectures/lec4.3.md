@@ -58,13 +58,13 @@
 $$
 \begin{aligned}
   R &= \frac{
-    r_1^2 + r_2^2 + 2\pi \cos 2\pi\angle
+    r_1^2 + r_2^2 + 2\pi \cos 2\theta\degree
   }{
-    1 + r_1^2 r_2^2 + 2 r_1 r_2 \cos 2\pi\angle
+    1 + r_1^2 r_2^2 + 2 r_1 r_2 \cos 2\theta\degree
   }\\
   r_1 & = \frac{n_0 - n_1}{n_0 + n_1}\\
   r_2 & = \frac{n_1 - n_2}{n_1 + n_2}\\
-  \angle & = \frac{2\pi n_1 d_1}{\lambda}
+  \theta & = \frac{2\pi n_1 d_1}{\lambda}
 \end{aligned}
 $$
 
