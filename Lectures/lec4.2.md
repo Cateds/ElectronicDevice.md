@@ -2,7 +2,7 @@
 
 ## 发光二极管概述
 
-发光二极管本质上是一个 PN 结，由直接带隙半导体材料 (direct bandgap semiconductor) 制成，比如 GaAs。其中的 EHP 复合会发射光子，从而实现电能到光能的转换。发射出来的光子能量近似等于半导体的带隙能量：
+发光二极管本质上是一个 PN 结，由直接带隙半导体材料 (direct bandgap semiconductor) 制成，比如 GaAs。其中的电子和空穴复合会发射光子，从而实现电能到光能的转换。发射出来的光子能量近似等于半导体的带隙能量：
 
 $$
 h f \approx E_g
@@ -55,7 +55,7 @@ LED 中的能带图如下：
 
 当是加了一个正向偏置 $V$ 时，PN 结附近以及 P 区的电子扩散长度内的电子直接复合，导致光子发射。左右两侧的费米能级分离，$E_{F_n} - E_{F_p} = eV$。
 
-这种发光过程叫做电致发光 (Electroluminescence, EL)，指的是电流通过材料时，由于空穴和电子的辐射复合 (radiative recombination) 而产生光的现象。对于重掺杂 N 型的 PN 结中，由于少数载流子输入导致 EHP 复合而发光的现象被称为注入型电致发光 (Injection Electroluminescence)。
+这种发光过程叫做电致发光 (Electroluminescence, EL)，指的是电流通过材料时，由于空穴和电子的辐射复合 (radiative recombination) 而产生光的现象。对于重掺杂 N 型的 PN 结中，由于少数载流子输入导致电子-空穴对复合而发光的现象被称为注入型电致发光 (Injection Electroluminescence)。
 
 ---
 
